@@ -1,0 +1,6 @@
+@Quản_lý_ngân_hàng_trực_tuyến__Online_Banking__HostAddress = http://localhost:5293
+
+GET {{Quản_lý_ngân_hàng_trực_tuyến__Online_Banking__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
